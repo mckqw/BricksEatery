@@ -1,0 +1,24 @@
+OrderNumber:00000000
+2017-01-31 10:51:48
+items[
+Bricks Burger(
+  bun(Regular),
+  patty(Beef),
+  pattyStyle(medium),
+  addons:(Egg),
+  toppings(arugala, grilled onions)
+),
+Bricks Burger(
+  bun(Regular),
+  patty(Beef),
+  pattyStyle(medium),
+  addons:(Egg),
+  toppings(arugala, grilled onions)
+)
+]
+<order>
+</order>
+
+admin password: bckertyconnect
+Administrator-key-pair-uswest
+pscp -scp -r -l ec2-user -pw bckertyconnect -i C:\Users\bass1\Downloads\Administrator-key-pair-uswest.ppk C:\xampp\htdocs\BricksEatery\*.* ec2-52-8-210-94.us-west-1.compute.amazonaws.com:/var/www/html/
