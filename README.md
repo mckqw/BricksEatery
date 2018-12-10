@@ -2,7 +2,7 @@
 
 This project was a design for a local Burger Joint called Bricks. It was a demo of a Online ordering system.
 
-This project uses PHP version: 7.1.9 and make sure to have the database () running before the website for the menu items to load.
+This project uses PHP version: 7.1.9 and make sure to have the database (found in	brickseatery 1-26-17.sql) running before the website for the menu items to load.
 
 This project is still in development and unfinished
 
